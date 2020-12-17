@@ -1,4 +1,4 @@
-import { env } from '../../env.js'
+import { env } from '../../../env.js'
 import { renderCart } from './renderCart.js'
 import { renderProducts } from './renderProducts.js'
 import { renderSummary } from './renderSummary.js'
